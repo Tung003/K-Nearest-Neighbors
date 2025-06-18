@@ -1,0 +1,10 @@
+# process data
+pandas==2.2.3
+numpy==2.1.2
+
+# data visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+tqdm==4.67.1
+# machine learning
+scikit-learn==1.6.1
